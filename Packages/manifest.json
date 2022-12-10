@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "com.google.android.appbundle": "file:../GooglePackages/com.google.android.appbundle-1.8.0.tgz",
+    "com.google.external-dependency-manager": "file:../GooglePackages/com.google.external-dependency-manager-1.2.172.tgz",
+    "com.google.play.common": "file:../GooglePackages/com.google.play.common-1.8.1.tgz",
+    "com.google.play.core": "file:../GooglePackages/com.google.play.core-1.8.1.tgz",
+    "com.google.play.review": "file:../GooglePackages/com.google.play.review-1.8.1.tgz",
+    "com.unity.ide.vscode": "1.2.5",
+    "com.unity.purchasing": "4.4.1",
+    "com.unity.recorder": "3.0.3",
+    "com.unity.test-framework": "1.1.33",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0"
+  }
+}

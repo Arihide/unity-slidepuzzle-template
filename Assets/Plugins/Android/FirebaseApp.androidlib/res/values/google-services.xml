@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">506700452632</string>
+  <string name="google_storage_bucket" translatable="false">slide-puzzle-da3d8.appspot.com</string>
+  <string name="project_id" translatable="false">slide-puzzle-da3d8</string>
+  <string name="google_api_key" translatable="false">AIzaSyCASdjNMHLOYzA6DfI6Kb3BkP01Xsr3-V0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCASdjNMHLOYzA6DfI6Kb3BkP01Xsr3-V0</string>
+  <string name="google_app_id" translatable="false">1:506700452632:android:ac60fd5bf388cb82e1c46d</string>
+  <string name="default_web_client_id" translatable="false">506700452632-3a7c372k4mv21pslee0q8ti7k5am3mh5.apps.googleusercontent.com</string>
+</resources>
